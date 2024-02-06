@@ -32,3 +32,4 @@ if __name__ == "__main__":
         print(f"Quotes from page {page_number}:")
         for quote in quotes:
             print("-", quote.text.strip())
+
